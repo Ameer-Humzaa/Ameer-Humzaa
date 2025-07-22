@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Ameer-Humzaa/Ameer-Humzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I'm Ameer Humza, 👋
 
-Here are some ideas to get you started:
+ a passionate Front-End Developer with a love for building responsive, high-performance, and visually stunning web applications. I thrive on solving real-world problems through clean, scalable code and delightful user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👨‍💻 About Me
+💻 Tech enthusiast since childhood
+
+🌱 Currently diving deeper into the MERN Stack
+
+🤝 Open to collaborations in Front-End Web and Mobile App Development
+
+🌍 Passionate about contributing to Open Source and learning from the developer community
+
+🧠 Focused on writing clean, scalable, and maintainable code
+
+💬 Let's talk about JavaScript, React, or Front-End Architecture
+-----------------------------------------------------------------------
+📫 Let’s Connect
+Want to collaborate or just say hi? I'm always open to meaningful conversations!
+
+💼 LinkedIn
+
+🌐 Portfolio Website
+
+✉️ Email: humzasiyall@gmail.com
+
+
