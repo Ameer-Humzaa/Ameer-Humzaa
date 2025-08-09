@@ -14,7 +14,6 @@
 - 🌱 Active contributor to **open source** and community-driven learning  
 - 💬 Let’s talk about **JavaScript**, **React**, or **UI/UX design systems**
 
----
 
 ## 🛠 Tech Stack & Tools
 
