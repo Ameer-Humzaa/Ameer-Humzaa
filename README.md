@@ -39,6 +39,6 @@ I'm always open to new ideas, collaborations, or just a friendly chat!
 - 🌐 [**Portfolio Website**](https://ameer-humzaa.github.io/Ameer-Portfolio/)
 - 📧 **Email**: [humzasiyall@gmail.com](mailto:humzasiyall@gmail.com)
 
----
+
 
 ## ✨  _"Code is like humor. When you have to explain it, it’s bad."_  
